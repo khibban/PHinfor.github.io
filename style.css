@@ -1,18 +1,33 @@
-* {
-    background-color: greenyellow;
-}
-.top img {
-    width: 100%;
+.bawah {
+    background-color: #AA96DA;
+    text-align: center;
 }
 
-.bottom {
-    position: absolute;
-    bottom: 0px;
-    margin: auto;
-    width: 100%;
-    background-color: aquamarine;
+.isi p {
+    text-align: justify;
+    margin: 20px;
+    color: black;
 }
 
-.bottom p {
-    background-color: aquamarine;
+.kiri {
+    background-color: #C5FAD5;
+    text-align: center;
+}
+
+.kiri img, video {
+    width: 190px;
+}
+
+.foto img {
+    width: 250px;
+}
+
+.judul h1 {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+.judul{
+    background-color: #AA96DA;
 }
