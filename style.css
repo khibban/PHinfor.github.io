@@ -3,6 +3,10 @@
     text-align: center;
 }
 
+.placeholder {
+    background-color: #FFFFD2;
+}
+
 .isi p {
     text-align: justify;
     margin: 20px;
@@ -15,11 +19,11 @@
 }
 
 .kiri img, video {
-    width: 190px;
+    width: 200px;
 }
 
 .foto img {
-    width: 250px;
+    width: 225px;
 }
 
 .judul h1 {
@@ -28,6 +32,48 @@
     text-align: center;
 }
 
-.judul{
+.judul {
     background-color: #AA96DA;
+    width: 100%;
+    margin: 0%;
+    display: inline-block;
+}
+
+.kontak {
+    text-align: center;
+}
+
+.column{
+    margin-left: 10px;
+}
+
+.gp1 {
+    width: 50%;
+    float: left;
+    padding : 0px;
+}
+
+.gp2 {
+    width: 50%;
+    float: right;
+}
+
+.fasilitas {
+    font-size: 16px;
+}
+
+.fasilitas ul {
+    font-weight: bold;
+}
+
+.fasilitas ul li {
+    font-weight: normal;
+}
+
+.heading {
+    background-color: green;
+}
+
+.heading img {
+    width: 100%
 }
